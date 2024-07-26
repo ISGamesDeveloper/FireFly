@@ -1,0 +1,25 @@
+<Data>
+  <RU Key = "PlayGame"	Word = "НАЧАТЬ ИГРУ"/>
+  <RU Key = "Settings"	Word = "НАСТРОЙКИ"/>
+  <RU Key = "Exit"    	Word = "ВЫХОД"/>
+  <RU Key = "MyGames"  	Word = "МОИ ИГРЫ"/>
+  <RU Key = "Language"	Word = "ЯЗЫК"/>
+  <RU Key = "Ads"     	Word = "УБРАТЬ РЕКЛАМУ"/>
+  <RU Key = "Sound"     Word = "ЗВУК"/>
+  <RU Key = "On"        Word = "ВКЛ"/>
+  <RU Key = "Off"       Word = "ВЫКЛ"/>
+  <RU Key = "PosmotriVideo"       Word = "ПОСМОТРИ ВИДЕО И ПОЛУЧИ 5 ЖИЗНЕЙ"/>
+  <RU Key = "NeHvataetZhizney"      Word = "НЕ ХВАТАЕТ ЖИЗНЕЙ"/>
+
+  <EN Key = "PlayGame"	Word = "PLAY GAME"/>
+	<EN Key = "Settings"	Word = "SETTINGS"/>
+	<EN Key = "Exit"	    Word = "EXIT"/>
+	<EN Key = "MyGames" 	Word = "MY GAMES"/>
+  <EN Key = "Language"	Word = "LANGUAGE"/>
+  <EN Key = "Ads"	      Word = "NO ADS"/>
+  <EN Key = "Sound"     Word = "SOUND"/>
+  <EN Key = "On"        Word = "ON"/>
+  <EN Key = "Off"       Word = "OFF"/>
+  <EN Key = "PosmotriVideo"       Word = "WATCH THE VIDEO AND GET 5 LIVES"/>
+  <EN Key = "NeHvataetZhizney"      Word = "NOT ENOUGH LIFE"/>
+</Data>
